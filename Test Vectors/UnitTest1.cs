@@ -37,5 +37,15 @@ namespace Test_Vectors
             Assert.AreEqual(expected, answer);
         }
 
+        [Test]
+        public void AngleBetween_Test()
+        {
+            double x1 = 4, x2 = 2, y1 = -1, y2 = 5;
+            double expected = 82.234833981574667;
+            double answer = VectorLibrary.Vectores.AngleBetween(x1, x2, y1, y2);
+
+            Assert.AreEqual(expected, answer);
+        }
+
     }
 }

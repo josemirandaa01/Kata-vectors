@@ -28,6 +28,16 @@ namespace VectorLibrary
             return answer;
         
         }
+
+        public static double AngleBetween(double x1, double x2, double y1, double y2)
+        {
+            double mod1 = Math.Sqrt(Math.Pow(x1, 2) + Math.Pow(y1,2));
+            double mod2 = Math.Sqrt(Math.Pow(x2, 2) + Math.Pow(y2,2));
+
+            double answer = ((x1 * x2) + (y1 * y2)) / (mod1 * mod2);
+
+            return Math.Acos(answer) * 180 / Math.PI;
+        }
     }
 
 
