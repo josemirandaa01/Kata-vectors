@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\bin\Release\netcoreapp3.1\VectorLibrary.deps.json
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\bin\Release\netcoreapp3.1\VectorLibrary.dll
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\bin\Release\netcoreapp3.1\VectorLibrary.pdb
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.csproj.AssemblyReference.cache
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.dll
+C:\Users\Jose\source\repos\Test Vectors\VectorLibrary\obj\Release\netcoreapp3.1\VectorLibrary.pdb

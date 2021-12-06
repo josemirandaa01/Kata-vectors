@@ -27,5 +27,15 @@ namespace Test_Vectors
             Assert.AreEqual(expected, answer);
         }
 
+        [Test]
+        public void DotProduct_Test()
+        {
+            double x1 = 1, x2 = 3, y1 = -5, y2 = 2;
+            double expected = 1;
+            double answer = VectorLibrary.Vectores.DotProduct(x1, x2, y1, y2);
+
+            Assert.AreEqual(expected, answer);
+        }
+
     }
 }
